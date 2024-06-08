@@ -198,7 +198,7 @@ Edit info.py with variables as given below then run bot
 
 ## Note 🏷️
  
-* [![Contact Developer](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/KingVJ01)
+* [![Contact Developer](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/presood)
 
 <b>[Note To A So Called Dev](https://telegram.dog/vj_botz): 
 
