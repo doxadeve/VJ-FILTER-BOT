@@ -75,7 +75,7 @@ SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'ipapcorn_support') # Support Chat Li
 
 # True Or False
 AI_SPELL_CHECK = bool(environ.get('AI_SPELL_CHECK', True))
-PM_SEARCH = bool(environ.get('PM_SEARCH', True))
+PM_SEARCH = bool(environ.get('PM_SEARCH', 0))
 IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', 0))
 MAX_BTN = is_enabled((environ.get('MAX_BTN', "True")), True)
 IS_TUTORIAL = bool(environ.get('IS_TUTORIAL', 0))
